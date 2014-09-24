@@ -1,9 +1,10 @@
 /*this is a comment*/
 body
 {
-	background-color: yellow;
+	
+	background-image:url('sativa.png');
+	background-color: yellow ;
 	font-family:helvetics; 
 	color:blue;
-	font
 	
 }
